@@ -1,6 +1,8 @@
-### Hi, I'm Nolin! 👋
-**iOS Engineer** → Working in large scale consumer applications<br>
-**Exploring** → Backend development, web development, and DevOps
+## Hi, I'm Nolin! 👋
+I thrive on transforming ideas into reality 🚀
+
+**iOS Engineer** ➔ Working in large scale consumer applications<br>
+**Exploring** ➔ Backend development, web development, and CI/CD
 
 ![languages](https://img.shields.io/static/v1?label=&message=Languages:&color=111&style=flat-square)
 ![swift](https://img.shields.io/static/v1?logo=swift&label=&message=Swift&color=36465D&style=flat-square&link=)
